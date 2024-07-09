@@ -1,0 +1,17 @@
+th{
+    background-color:rgb(255, 170, 0);
+    width:40vh;
+    height: 8vh;
+    margin: 0;
+}
+
+td{
+    justify-content: center;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+table{
+    border-spacing: 0;
+}
